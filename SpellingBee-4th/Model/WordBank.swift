@@ -12,14 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"angst", sentence:""))
-        list.append(Word(word:"pretzel", sentence:""))
-        list.append(Word(word:"waltz", sentence:""))
-        list.append(Word(word:"haversack", sentence:""))
-        list.append(Word(word:"nosh", sentence:""))
-        list.append(Word(word:"sauerbraten", sentence:""))
-        list.append(Word(word:"hinterland", sentence:""))
-        list.append(Word(word:"verboten", sentence:""))
-        list.append(Word(word:"liverwurst", sentence:""))
+        list.append(Word(word:"streusel", sentence:""))
+        list.append(Word(word:"umlaut", sentence:""))
+        list.append(Word(word:"wanderlust", sentence:""))
+        list.append(Word(word:"eiderdown", sentence:""))
+        list.append(Word(word:"schnauzer", sentence:""))
+        list.append(Word(word:"weissnichtwo", sentence:""))
+        list.append(Word(word:"kohlrabi", sentence:""))
+        list.append(Word(word:"sitzmark", sentence:""))
+        list.append(Word(word:"langlauf", sentence:""))
+        list.append(Word(word:"schnecke", sentence:""))
     }
 }
