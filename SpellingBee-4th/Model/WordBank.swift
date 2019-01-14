@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"streusel", sentence:""))
-        list.append(Word(word:"umlaut", sentence:""))
-        list.append(Word(word:"wanderlust", sentence:""))
-        list.append(Word(word:"eiderdown", sentence:""))
-        list.append(Word(word:"schnauzer", sentence:""))
-        list.append(Word(word:"weissnichtwo", sentence:""))
-        list.append(Word(word:"kohlrabi", sentence:""))
-        list.append(Word(word:"sitzmark", sentence:""))
-        list.append(Word(word:"langlauf", sentence:""))
-        list.append(Word(word:"schnecke", sentence:""))
+        list.append(Word(word:"backstein", sentence:""))
+        list.append(Word(word:"inselberg", sentence:""))
+        list.append(Word(word:"gestalt", sentence:""))
+        list.append(Word(word:"einkorn", sentence:""))
+        list.append(Word(word:"kitsch", sentence:""))
+        list.append(Word(word:"gestapo", sentence:""))
+        list.append(Word(word:"schloss", sentence:""))
+        list.append(Word(word:"rucksack", sentence:""))
+        list.append(Word(word:"pickelhaube", sentence:""))
+        list.append(Word(word:"bratwurst", sentence:""))
     }
 }
