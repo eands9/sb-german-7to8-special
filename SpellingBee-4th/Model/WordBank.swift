@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"kuchen", sentence:""))
-        list.append(Word(word:"pitchblende", sentence:""))
-        list.append(Word(word:"spritz", sentence:""))
-        list.append(Word(word:"prattle", sentence:""))
-        list.append(Word(word:"zwinger", sentence:""))
-        list.append(Word(word:"spitz", sentence:""))
-        list.append(Word(word:"wedel", sentence:""))
-        list.append(Word(word:"panzer", sentence:""))
-        list.append(Word(word:"edelweiss", sentence:""))
-        list.append(Word(word:"dachshund", sentence:""))
+        list.append(Word(word:"seltzer", sentence:""))
+        list.append(Word(word:"schadenfreude", sentence:""))
+        list.append(Word(word:"dreidel", sentence:""))
+        list.append(Word(word:"weimaraner", sentence:""))
+        list.append(Word(word:"ersatz", sentence:""))
+        list.append(Word(word:"fräulein", sentence:""))
+        list.append(Word(word:"blitzkrieg", sentence:""))
+        list.append(Word(word:"gesundheit", sentence:""))
+        list.append(Word(word:"pfeffernuss", sentence:""))
+        list.append(Word(word:"glockenspiel", sentence:""))
     }
 }

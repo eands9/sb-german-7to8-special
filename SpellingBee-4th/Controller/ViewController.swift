@@ -391,7 +391,7 @@ class ViewController: UIViewController {
     
     func readMe( myText: String) {
         let utterance = AVSpeechUtterance(string: myText )
-        utterance.voice = AVSpeechSynthesisVoice(language: "en-US")
+        utterance.voice = AVSpeechSynthesisVoice(language: "de-GE")
         utterance.rate = 0.4
         
         let synthesizer = AVSpeechSynthesizer()
