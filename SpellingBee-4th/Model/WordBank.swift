@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"knapsack", sentence:""))
-        list.append(Word(word:"feldspar", sentence:""))
-        list.append(Word(word:"poltergeist", sentence:""))
-        list.append(Word(word:"noodle", sentence:""))
-        list.append(Word(word:"spareribs", sentence:""))
-        list.append(Word(word:"meistersinger", sentence:""))
-        list.append(Word(word:"pumpernickel", sentence:""))
-        list.append(Word(word:"bildungsroman", sentence:""))
-        list.append(Word(word:"strudel", sentence:""))
-        list.append(Word(word:"bagel", sentence:""))
+        list.append(Word(word:"hamster", sentence:""))
+        list.append(Word(word:"cobalt", sentence:""))
+        list.append(Word(word:"nachtmusik", sentence:""))
+        list.append(Word(word:"vorlage", sentence:""))
+        list.append(Word(word:"graupel", sentence:""))
+        list.append(Word(word:"wagnerian", sentence:""))
+        list.append(Word(word:"cringle", sentence:""))
+        list.append(Word(word:"fife", sentence:""))
+        list.append(Word(word:"glitz", sentence:""))
+        list.append(Word(word:"homburg", sentence:""))
     }
 }
